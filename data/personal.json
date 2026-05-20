@@ -1,0 +1,18 @@
+[
+  {
+    "distrito": "9 DE OCTUBRE",
+    "grado": "CPTN",
+    "nombre": "GUAMAN JHONATAN",
+    "cedula": "0912345678",
+    "tipo": "OPERATIVO",
+    "estado": "VIGENTE"
+  },
+  {
+    "distrito": "FLORIDA",
+    "grado": "TNTE",
+    "nombre": "JUAN PEREZ",
+    "cedula": "0923456789",
+    "tipo": "ADMINISTRATIVO",
+    "estado": "VIGENTE"
+  }
+]
